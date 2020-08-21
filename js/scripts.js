@@ -19,8 +19,8 @@ $(document).ready(function(){
 
 // Behavior Order:
 
-// Describe: `pigLatin()`
-// Test: The program will add 'way' to the end of words that begin with a vowel.
+// Describe: `mr-robogers-neighborhood()`
+// Test: The program will return a range of numbers from 0 to the users inputted number.
 // Expect(pigLatin("apple")).toEqual("appleway");
 
 // Test: The program will find words that begin with one or more consonants and move all of the first consecutive consonants to end of the word before adding 'ay' to the end.
